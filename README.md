@@ -8,6 +8,6 @@
 
 项目演示地址：http://134.175.239.108:8080/tcode/index.html
 
-Project Author:jackson0720(GitHub同名)、 FlameAidan_(GitHub同名)、安华萧潇(腾讯云开发者平台同名)、Robbin(腾讯云开发者平台同名)、HK416Mywife（GitHub同名）
+Project Author:<a href="www.baidu.com"></a>jackson0720(GitHub同名)、 FlameAidan_(GitHub同名)、安华萧潇(腾讯云开发者平台同名)、Robbin(腾讯云开发者平台同名)、HK416Mywife（GitHub同名）
 
 项目作者:jackson0720(GitHub同名)、FlameAidan_(GitHub同名)、安华萧潇(腾讯云开发者平台同名)、Robbin(腾讯云开发者平台同名)、HK416Mywife（GitHub同名）
